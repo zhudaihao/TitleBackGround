@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="15dp"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@color/colorAccent" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="金行世层局出六度军低生把音被象里头什特道类温八下放究什力农省斯效石火气克识引数己一众养。院务低酸容格火管严至入五里西点重细想决将从改使这们验业你再明容低红解得元为分查道有或不积图样关强给劳太节子头称形的现采与。" />
+</LinearLayout>
